@@ -1,2 +1,6 @@
 # Mo-Elbadaly
-👋 Hi, I'm Mohamed Amr El Badaly! 🎓 Computer Science Student | 💻 Data Analyst | 🐍 Python &amp; SQL Enthusiast  🔹 Passionate about programming, data analysis, and database management 🔹 Building projects with Python, SQL, and Excel (Power Query &amp; Power Pivot) 🔹 Interested in AI, automation, and dashboard development  
+✨ Hi, I’m Mohamed Amr El Badaly 👋
+
+💻 Data & Machine Learning Enthusiast
+🐍 Skilled in Python | 🗄️ SQL | 📊 Dashboards | 🤖 Automation | 🔮 AI
+🚀 Passionate about turning data into insights & building smart solutions
